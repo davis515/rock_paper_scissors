@@ -1,9 +1,8 @@
+<img src="./resources/icon.png" alt="icon" width=“50px” height="50px" />
+
 # rock_paper_scissors
 
-<div style="text-align: left">
-  <imge src="./resources/icon.png" width="50px" height="50px" />
-  <imge src="./resources/demo.gif" width="50px" height="50px" />
-</div>
+<img src="./resources/demo.gif" width="270px" height="480px" />
 
 > 课内作业
 
